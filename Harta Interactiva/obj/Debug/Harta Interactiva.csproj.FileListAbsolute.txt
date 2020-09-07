@@ -1,0 +1,98 @@
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\bin\Debug\Harta Interactiva.exe.config
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\bin\Debug\Harta Interactiva.exe
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\bin\Debug\Harta Interactiva.pdb
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.csprojResolveAssemblyReference.cache
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Europa.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Introducere.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Properties.Resources.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.csproj.GenerateResource.cache
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.csproj.CoreCompileInputs.cache
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.exe
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.pdb
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Germania_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Franta_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Austria_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Bulgaria_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_austria.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Cehia_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_austria.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Grecia_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Italia_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Polonia_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Regatul_Unit_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Romania_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Spania_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Ucraina_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Ungaria_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_austria.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.geografie_bulgaria.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_bulgaria.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_bulgaria.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_cehia.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_cehia.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_cehia.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_franta.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_franta.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_franta.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Test1_form.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Form0.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_mb.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_mb.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_mb.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_gbr.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_gbr.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_gbr.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_rou.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_rou.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_rou.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Harta_Muta.resources
+C:\Users\octav\source\repos\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.testgata.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\bin\Debug\Harta Interactiva.exe.config
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.exe
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.pdb
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.csprojAssemblyReference.cache
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Austria_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Bulgaria_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Cehia_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_mb.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_austria.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_bulgaria.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_cehia.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_franta.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_gbr.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Economie_rou.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Europa.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Introducere.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Form0.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Franta_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_mb.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_austria.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.geografie_bulgaria.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_cehia.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_franta.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_gbr.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Geografie_rou.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Germania_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Grecia_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Harta_Muta.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_mb.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_austria.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_bulgaria.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_cehia.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_franta.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_gbr.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Istorie_rou.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Italia_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Polonia_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Properties.Resources.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Regatul_Unit_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Romania_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Spania_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Test1_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.testgata.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Ucraina_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta_Interactiva.Ungaria_form.resources
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.csproj.GenerateResource.cache
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\obj\Debug\Harta Interactiva.csproj.CoreCompileInputs.cache
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\bin\Debug\Harta Interactiva.exe
+F:\Aplicatie Bucurica si Alexandru\Harta Interactiva\Harta Interactiva\bin\Debug\Harta Interactiva.pdb
